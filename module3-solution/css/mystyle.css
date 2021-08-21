@@ -61,8 +61,6 @@
   /*** MAIN CONTENT ***/
   h1 {
     margin-bottom: 15px;
-    text-align: center;
-
   }
 
   #section1, #section2, #section3 {
@@ -81,11 +79,9 @@ h3 {
 	position: absolute;
 	border: solid #000;
 	border-width: 0 0 2px 2px;
-  text-align: center;
 	font-size: 18px;
 	padding: 5px;
 	width: 7em;
-
 	right: 0px;
   top: -20px;
 
